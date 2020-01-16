@@ -1,9 +1,9 @@
-# Channels and frequencies in use at 05/05/2017.
-# España - Teruel
-
-[Canal 25: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
+# Channels and frequencies in use at 27/12/2019.
+# EspaÃ±a - Teruel
+
+[Canal 1: Antena3, Antena3 HD, laSexta, laSexta HD, neox, nova]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 506000000
+ 	FREQUENCY = 4900000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -12,10 +12,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 26: Aragón TV, Aragón TV HD, Aragón Radio, Aragón Radio 2, TEA FM]
+
+[Canal 2: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 514000000
+ 	FREQUENCY = 5060000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -24,10 +24,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 30: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF]
+
+[Canal 3: AragÃ³n TV, AragÃ³n TV HD, AragÃ³n Radio, AragÃ³n Radio 2]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 546000000
+ 	FREQUENCY = 5140000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -36,10 +36,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 32: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+
+[Canal 4: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 562000000
+ 	FREQUENCY = 5460000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -48,10 +48,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 34: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
+
+[Canal 5: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio MarÃ­a, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = Boing0000
+ 	FREQUENCY = 5620000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -60,10 +60,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 39: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
+
+[Canal 6: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, MelodÃ­a FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 618000000
+ 	FREQUENCY = 5780000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -72,10 +72,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+
+[Canal 7: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 634000000
+ 	FREQUENCY = 6180000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -84,10 +84,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 42: Teleteruel, Latele TV, Factoría de Contenidos]
+
+[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio ClÃ¡sica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 642000000
+ 	FREQUENCY = 6340000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -96,10 +96,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 54: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
+
+[Canal 9: Teleteruel, Latele TV, FactorÃ­a de Contenidos]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 738000000
+ 	FREQUENCY = 6420000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -108,4 +108,16 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
+
+[Canal 10: Antena3, Antena3 HD, laSexta, laSexta HD, neox, nova]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 7380000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+

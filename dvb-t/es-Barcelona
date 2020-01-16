@@ -1,9 +1,9 @@
-# Channels and frequencies in use at 05/05/2017.
-# EspaÒa - Barcelona
-
-[Canal 23: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
+# Channels and frequencies in use at 27/12/2019.
+# Espa√±a - Barcelona
+
+[Canal 1: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 490000000
+ 	FREQUENCY = 4900000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -12,10 +12,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 26: betevÈ, teleb-Badalona, TV L'Hospitalet, betevÈ 91.0, R‡dio Ciutat Badalona, R‡dio Hospitalet]
+
+[Canal 2: betev√©, teleb-Badalona, TV L'Hospitalet, betev√© 91.0, R√†dio Ciutat Badalona, R√†dio Hospitalet]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 514000000
+ 	FREQUENCY = 5140000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -24,10 +24,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 27: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
+
+[Canal 3: Antena3, Antena3 HD, laSexta, laSexta HD, neox, nova]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 522000000
+ 	FREQUENCY = 5220000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -36,10 +36,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 29: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, MelodÌa FM, Cope]
+
+[Canal 4: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melod√≠a FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 538000000
+ 	FREQUENCY = 5380000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -48,10 +48,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 31: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5, R‡dio 4]
+
+[Canal 5: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE, R√†dio 4 RNE]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 554000000
+ 	FREQUENCY = 5540000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -60,10 +60,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 33: 8TV, BarÁaTV, TV3HD, RAC105, RAC 1, RAC 105]
+
+[Canal 6: 8TV, Bar√ßa TV, Bar√ßa TV HD, RAC105, RAC1, RAC105]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 570000000
+ 	FREQUENCY = 5700000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -72,10 +72,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 34: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+
+[Canal 7: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 578000000
+ 	FREQUENCY = 5780000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -84,10 +84,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Cl·sica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+
+[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Cl√°sica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 634000000
+ 	FREQUENCY = 6340000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -96,10 +96,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 44: TV3, 3/24, Super3 / 33, Esport 3, IB3 Global, CatRadio, CatInfo, CatMusic, iCat.cat]
+
+[Canal 9: TVE 4K]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 658000000
+ 	FREQUENCY = 6500000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -108,10 +108,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 47: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio MarÌa, Radio Marca, Vaughan Radio, esRadio]
+
+[Canal 10: TV3, TV3HD, 3/24, Super3/33, Esport3, IB3 Global, CatRadio, CatInfo, CatMusic, iCat.cat]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 682000000
+ 	FREQUENCY = 6580000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -120,10 +120,10 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-[Canal 48: El Punt Avui, 25 TV, Radio Cooltura]
+
+[Canal 11: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio Mar√≠a, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 690000000
+ 	FREQUENCY = 6820000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -132,4 +132,16 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
+
+[Canal 12: El Punt Avui, 25 TV, Radio Cooltura]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 6900000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
